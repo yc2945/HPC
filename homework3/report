@@ -1,0 +1,21 @@
+Processor: 2.9 GHz Intel Core i7
+Memory: 16 GB 2133 MHz LPDDR3
+
+
+Thread number: 1
+sequential-scan = 0.448381s
+parallel-scan   = 0.534146s
+
+Thread number: 2
+sequential-scan = 0.435221s
+parallel-scan   = 0.472245s
+
+Thread number: 4
+sequential-scan = 0.434529s
+parallel-scan   = 0.395204s
+
+Thread number: 8
+sequential-scan = 0.426781s
+parallel-scan   = 0.405625s
+
+

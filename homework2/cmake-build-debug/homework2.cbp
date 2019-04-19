@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="homework2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="homework2">
+				<Option output="/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/homework2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ethan/NYU/HPC/code/homework2/."/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/../../../../include/c++/6.3.1/x86_64-apple-darwin14.5.0"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/include"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/include-fixed"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/../../include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 homework2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="homework2/fast">
+				<Option output="/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/homework2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ethan/NYU/HPC/code/homework2/."/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/../../../../include/c++/6.3.1/x86_64-apple-darwin14.5.0"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/include"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/include-fixed"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/gnat/bin/../lib/gcc/../../include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 homework2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ethan/NYU/HPC/code/homework2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/MMult1.cpp">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/omp_bug2.c">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/omp_bug3.c">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/omp_bug4.c">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/omp_bug5.c">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/omp_bug6.c">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/utils.h">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/val_test01.cpp">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/val_test01_solved.cpp">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/val_test02.cpp">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/val_test02_solved.cpp">
+			<Option target="homework2"/>
+		</Unit>
+		<Unit filename="/Users/ethan/NYU/HPC/code/homework2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
