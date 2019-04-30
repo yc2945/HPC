@@ -53,7 +53,7 @@ double time_bandwidth(long Nrepeat, long Nsize, MPI_Comm comm) {
   	msg[i] = 0; 
   }
 
-  printf("finish inintialization, rank %d \n", rank); 
+  // printf("finish inintialization, rank %d \n", rank); 
 
   MPI_Barrier(comm);
   double tt = MPI_Wtime();
